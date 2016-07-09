@@ -2,15 +2,15 @@
 /*
 Plugin Name: Simple Exclude Categories
 Description: Hide posts in categories from WordPress Homepage
-Plugin URI: http://sihung.tk/
+Plugin URI: http://sihung.net/
 Version: 1.0
-Author: Trang Si Hung
-Author URI: http://sihung.tk/
+Author: Hung Trang Si
+Author URI: http://sihung.net/
 Author Email: trangsihung@gmail.com
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Copyright 2013 Someblog (trangsihung@gmail.com)
+Copyright 2013 Hung Trang Si (trangsihung@gmail.com)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as
